@@ -11,3 +11,10 @@ Temos vários resultados interessantes por aqui: o primeiro é uma correlação 
 **Vamos ver essa correlação em um gráfico mais bonitinho.**
 
 ![image](https://user-images.githubusercontent.com/41703972/82365597-3db52c00-99e7-11ea-8444-54dcec92e27d.png)
+
+## Quais questões tiveram mais erros: análise sobre o gabarito x acertos x erros
+O gráfico abaixo mostra o número o número de acertos das questões da prova de **ciências das natureza**.
+
+![image](https://user-images.githubusercontent.com/41703972/82366047-f5e2d480-99e7-11ea-9ebe-637f3ec45b17.png)
+
+A questão **23** foi facinha né?! Já a **26** e a **44** nem tanto.
